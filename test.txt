@@ -1,3 +1,4 @@
+Creating a new branch is quick.
 hello
 track file changes
 checkout branch to dev
